@@ -1,0 +1,1 @@
+{"inputUnits":[5],"outputUnits":1,"inputs":{"loc":{"dtype":"number","min":73,"max":300522},"rooms":{"dtype":"number","min":1,"max":10},"floor":{"dtype":"number","min":0,"max":10},"market":{"dtype":"number","min":0,"max":1},"status":{"dtype":"number","min":0,"max":2}},"outputs":{"price":{"dtype":"number","min":2611,"max":18693}},"isNormalized":true}
